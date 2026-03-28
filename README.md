@@ -14,7 +14,7 @@ A simple full-stack Task Manager built for the Intern Software Engineer coding a
 - Frontend: React (functional components), React Router v6, Axios
 - Styling: Tailwind CSS
 
-## Local Setup (Fresh Checkout)
+## Local Setup
 
 ### 1. Clone repository
 
